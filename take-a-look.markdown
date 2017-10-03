@@ -1,7 +1,7 @@
 ---
 title: Take a look
 date: 2017-02-21 17:35:00 -06:00
-position: 1
+position: 2
 layout: media-grid
 ---
 
