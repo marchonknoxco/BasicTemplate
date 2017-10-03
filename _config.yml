@@ -77,3 +77,4 @@ exclude:
 - Gemfile
 - Gemfile.lock
 google_analytics: 
+favicon: 
