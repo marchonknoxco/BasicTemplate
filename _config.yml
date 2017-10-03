@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Knox County citizens resisting the Trump agenda
+subtitle: "Knox County citizens \nresisting the Trump agenda"
 email: 
 baseurl: 
 url: 
