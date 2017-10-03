@@ -1,6 +1,6 @@
 ---
 title: Act now!
-position: 1
+position: 0
 main-image: 
 layout: actions
 ---
