@@ -57,16 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
+subtitle: Knox County citizens resisting the Trump agenda
 email: 
 baseurl: 
 url: 
-twitter_username: 
-facebook_username: 
+twitter_username: marchonknoxco
+facebook_username: marchonknoxco
 background-image: "/uploads/31773994174_c2e5706218_k.jpg"
 member-count: 100
-footer-title: Spread the word. Help build a movement.
+footer-title: Spread the word. Build the movement.
 markdown: kramdown
 gems:
 - jekyll-feed
