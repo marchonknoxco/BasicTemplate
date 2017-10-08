@@ -2,9 +2,6 @@
 title: 'March On: Indivisible Knox County'
 timezone: America/Chicago
 collections:
-  merch:
-    title: Merch
-    output: true
   posts:
     title: Posts
     output: true
