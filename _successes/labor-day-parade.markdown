@@ -5,7 +5,7 @@ categories:
 - successes
 is featured: true
 main-image: "/uploads/20170904_103230.jpg"
-layout: default
+layout: media-grid
 ---
 
 dsadf
