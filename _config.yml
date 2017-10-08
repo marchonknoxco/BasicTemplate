@@ -5,6 +5,9 @@ collections:
   good-news:
     title: Good news
     output: true
+  merch:
+    title: Merch
+    output: true
   posts:
     title: Posts
     output: true
