@@ -50,6 +50,11 @@ defaults:
     embed-code: 
 - scope:
     path: ''
+    type: calendar
+  values:
+embed-code: 
+- scope:
+    path: ''
     type: becomeAMember
   values:
     main-image: 
