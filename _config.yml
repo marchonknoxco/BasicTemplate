@@ -50,9 +50,9 @@ defaults:
     embed-code: 
 - scope:
     path: ''
-    type: calendar
+    type: merch
   values:
-embed-code: 
+    embed-code: 
 - scope:
     path: ''
     type: becomeAMember
