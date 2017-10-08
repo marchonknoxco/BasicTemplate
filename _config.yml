@@ -8,6 +8,9 @@ collections:
   representatives:
     title: Representatives
     output: false
+  successes:
+    title: Successes
+    output: true
   uploads:
     title: Uploads
     output: true
