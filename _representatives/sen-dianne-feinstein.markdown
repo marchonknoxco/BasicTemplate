@@ -6,7 +6,8 @@ phone-numbers:
   DC Office: "(202) 224-2152"
 website: https://www.durbin.senate.gov/
 Email:
-  Email: https://www.durbin.senate.gov/contact/email
+  Email:
+    Key 1: https://www.durbin.senate.gov/contact/email
 ---
 
 Rad
