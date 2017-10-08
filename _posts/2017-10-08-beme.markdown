@@ -1,11 +1,13 @@
 ---
 title: beme
 date: 2017-10-08 14:38:00 -05:00
+categories:
+- event
 is featured: true
 event-start-date: 2017-10-12 17:00:00 -05:00
 event-end-date: 2017-10-12 20:00:00 -05:00
 Location: Budde's
-layout: calendar
+layout: default
 ---
 
 join usfad
