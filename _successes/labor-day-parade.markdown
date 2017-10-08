@@ -10,6 +10,4 @@ layout: media-grid
 
 dsadf
 
-
-{{embed <iframe src="https://photos.app.goo.gl/5QoAFr914rraSnMf2" style="border:1px #000000 solid;" name="" scrolling="auto" align="bottom" height="500" width="100%">
-</iframe>}}
+https://photos.app.goo.gl/5QoAFr914rraSnMf2
