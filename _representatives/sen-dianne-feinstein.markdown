@@ -5,7 +5,8 @@ phone-numbers:
   Rock Island Office: "(309) 786-5173"
   DC Office: "(202) 224-2152"
 website: https://www.durbin.senate.gov/
-Email: https://www.durbin.senate.gov/contact/email
+Email:
+  Email: https://www.durbin.senate.gov/contact/email
 ---
 
 Rad
