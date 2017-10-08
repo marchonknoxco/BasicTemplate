@@ -2,6 +2,9 @@
 title: 'March On: Indivisible Knox County'
 timezone: America/Chicago
 collections:
+  labor-day:
+    title: Labor day
+    output: true
   posts:
     title: Posts
     output: true
