@@ -1,4 +1,5 @@
 ---
+title: blu
 layout: default
 ---
 
