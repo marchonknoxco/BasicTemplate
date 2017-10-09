@@ -5,6 +5,7 @@ categories:
 - successes
 is featured: true
 main-image: "/uploads/20170904_103230.jpg"
+link: https://photos.app.goo.gl/5QoAFr914rraSnMf2
 ---
 
 adfdfs
