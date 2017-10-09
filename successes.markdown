@@ -1,5 +1,5 @@
 ---
-title: We did it!
+title: Feats of strength
 date: 2017-02-21 17:35:00 -06:00
 position: 1
 layout: media-grid
