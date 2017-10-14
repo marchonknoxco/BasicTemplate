@@ -5,8 +5,6 @@ position: 2
 layout: tools
 ---
 
-
-
 [Indivisible's Issues Page] (https://www.indivisible.org/)
 description of ...
 
