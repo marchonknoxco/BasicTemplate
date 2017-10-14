@@ -1,6 +1,7 @@
 ---
 title: And we are ...
 date: 2017-10-14 14:30:00 -05:00
+position: 1
 ---
 
 <h3 style="text-align: left;">Derrin</h3>
