@@ -5,7 +5,7 @@ is featured: true
 ---
 
 Derrin
-> Derrin makes thing happen. She's passionate, outgoing, and not afraid of the rain. Derrin can hold her own.
+> Derrin makes thing happen. She's passionate, outgoing, and not afraid of the rain. Derrin is fearless and can hold her own.
 Emily
 > Emily uses the Resistance as a way to cope with the political Twilight Zone we find ourselves in. She has two kids, she is addicted to the news, and she uses a lot of exclamation points.
 Hilary
@@ -14,3 +14,5 @@ Katya
 > Katya celebrates every success: large, small; personal, political. She writes poetry and fights the regime. 
 Mary Jane
 > MJ knows everything and everyone. She is our girl on the ground, and nothing happens unless she makes it happen.
+
+And all of us are learning to be activists. 
