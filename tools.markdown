@@ -5,6 +5,8 @@ position: 2
 layout: tools
 ---
 
+We post calls to action, on Facebook, every weekday. But if you're looking for more information or for other ways to make a difference, here you go ...
+
 [Indivisible's Issues Page] (https://www.indivisible.org/)
 description of ...
 
