@@ -5,8 +5,7 @@ position: 2
 layout: tools
 ---
 
-[Indivisisible] (https://www.indivisible.org/)
-Our mission is to fuel a progressive grassroots network of local groups to resist the Trump Agenda. In every congressional district in the country, people like you are starting local groups and leading local actions. Are you standing indivisible with us?
+
 
 [Indivisible's Issues Page] (https://www.indivisible.org/)
 description of ...
@@ -19,3 +18,7 @@ description of ...
 
 
 [Wall-of-Us](https://www.wallofus.org/actions) is an amazing 
+
+And last but most ..
+[Indivisisible] (https://www.indivisible.org/)
+Our mission is to fuel a progressive grassroots network of local groups to resist the Trump Agenda. In every congressional district in the country, people like you are starting local groups and leading local actions. Are you standing indivisible with us?
