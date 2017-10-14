@@ -1,7 +1,8 @@
 ---
 title: Who we are ...
 date: 2017-10-14 13:46:00 -05:00
-is featured: true
+published: false
+is featured: false
 ---
 
 <h3 style="text-align: left;">Derrin</h3>
