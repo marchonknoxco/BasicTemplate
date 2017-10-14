@@ -12,10 +12,9 @@ description of ...
 
 [5 Calls](https://5calls.org/#) is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.
 
-[Grab your wallet](https://grabyourwallet.org/) is the 
-
-
 [Wall-of-Us](https://www.wallofus.org/actions) is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media. 
+
+[Grab your wallet](https://grabyourwallet.org/) is the 
 
 And last but most ..
 [Indivisisible] (https://www.indivisible.org/)
