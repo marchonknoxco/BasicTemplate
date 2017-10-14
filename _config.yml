@@ -17,9 +17,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  who-we-are:
-    title: Who we are
-    output: true
 defaults:
 - scope:
     path: ''
