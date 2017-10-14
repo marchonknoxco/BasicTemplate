@@ -5,7 +5,7 @@ is featured: true
 ---
 
 <h3 style="text-align: left;">Derrin</h3>
-<p style="padding-left: 30px;">Derrin gets things done. She&rsquo;s passionate, outgoing, and not afraid of the rain. Derrin is fearless and can hold her own.</p>
+<p style="padding-left: 30px;">Derrin gets things done. She&rsquo;s passionate, outgoing, and not afraid of the rain. Derrin is fearless, and she speaks up.</p>
 <h3>Emily</h3>
 <p style="padding-left: 30px;">Emily uses the Resistance as a way of coping with the political <em>Twilight Zone</em> we find ourselves in. She has two kids, she is addicted to the news, and she uses a lot of exclamation points when she writes.</p>
 <h3>Hilary</h3>
