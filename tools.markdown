@@ -17,7 +17,7 @@ description of ...
 [Grab your wallet](https://grabyourwallet.org/) is the 
 
 
-[Wall-of-Us](https://www.wallofus.org/actions) is an amazing 
+[Wall-of-Us](https://www.wallofus.org/actions) is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media. 
 
 And last but most ..
 [Indivisisible] (https://www.indivisible.org/)
