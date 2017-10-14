@@ -5,7 +5,7 @@ is featured: true
 ---
 
 Derrin
-> Derrin makes thing happen. She's passionate, outgoing, and not afraid of the rain. Derrin can also hold her own.
+> Derrin makes thing happen. She's passionate, outgoing, and not afraid of the rain. Derrin can hold her own.
 Emily
 > Emily uses the Resistance as a way to cope with the political Twilight Zone we find ourselves in. She has two kids, she is addicted to the news, and she uses a lot of exclamation points.
 Hilary
