@@ -33,7 +33,7 @@ position: 2
 <p>&nbsp;</p>
 **[Indivisible's Resource Page](http://www.indivisible.org/resources/)**
 
-<p style="padding-left: 30px;">"Resources to Resist Trump." It includes information on current, crucial issues such as gun violence, affordable health care, the Iran accord, tensions with North Korea, and the CHIP program. You'll find information on the legislative background, the current status, and what you can do.</p>
+<p style="padding-left: 30px;">"Resources to Resist Trump." It includes information on current, crucial issues such as gun violence, affordable health care, the Iran accord, brinkmanship with North Korea, and the CHIP program. You'll find information on the legislative background, the current status, and what you can do.</p>
 
 **[Wall-of-Us](https://www.wallofus.org/)**
 
