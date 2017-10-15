@@ -1,5 +1,5 @@
 ---
-title: Our calendar
+title: Calendar
 date: 2017-02-15 18:36:00 -06:00
 position: 1
 embed-code: <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showTabs=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23fafafa&amp;src=3d0gc9vjc11s8k4p1tdiqt65d7sbl8td%40import.calendar.google.com&amp;color=%235A6986&amp;src=s96i9uhot6vb1b05a3ep63r55c%40group.calendar.google.com&amp;color=%23A32929&amp;ctz=America%2FChicago"
