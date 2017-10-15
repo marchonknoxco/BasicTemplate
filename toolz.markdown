@@ -56,24 +56,24 @@ position: 2
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 
-**[ACLU](https://www.aclu.org/)**
+**[ACLU](https://www.aclu.org/)** 
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"For nearly 100 years, the ACLU has been our nation’s guardian of liberty, working in courts, legislatures, and communities to defend and preserve the individual rights and liberties that the Constitution and the laws of the United States guarantee everyone in this country."</p>
 
 **[Black Lives Matter](https://blacklivesmatter.com/)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"The Black Lives Matter Global Network is a chapter-based, member-led organization whose mission is to build local power and to intervene in violence inflicted on Black communities by the state and vigilantes."</p>
 
 **[Global Giving](https://www.globalgiving.org/)**
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">Currently focusing on those affected by natural disasters. "GlobalGiving is the largest global crowdfunding community connecting nonprofits, donors, and companies in nearly every country. We help nonprofits from Afghanistan to Zimbabwe (and hundreds of places in between) access the tools, training, and support they need to be more effective and make our world a better place."</p>
 
 **[Human Rights Campaign](https://www.hrc.org/)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"The Human Rights Campaign represents a force of more than 1.5 million members and supporters nationwide. As the largest national lesbian, gay, bisexual, transgender and queer civil rights organization, HRC envisions a world where LGBTQ people are ensured of their basic equal rights, and can be open, honest and safe at home, at work and in the community."</p>
 
 **[National Immigration Law Center](https://www.nilc.org/)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"At NILC, we believe that all people who live in the U.S. should have the opportunity to achieve their full potential. Over the years, we’ve been at the forefront of many of the country’s greatest challenges when it comes to immigration issues, and we play a major leadership role in addressing the real-life impact of policies that affect the ability of low-income immigrants to prosper and thrive."</p>
 
 **[Natural Resources Defense Council](https://www.nrdc.org/)**
 
