@@ -23,7 +23,7 @@ date: 2017-10-15 11:38:00 -05:00
 **[Grab Your Wallet](https://grabyourwallet.org/)** (website)
 
 <p style="padding-left: 30px;">Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.</p>
-
+<p>&nbsp;</p>
 <hr>
 <h3>Even more information, call scripts, and action alerts</h3>
 <p>&nbsp;</p>
@@ -46,7 +46,7 @@ date: 2017-10-15 11:38:00 -05:00
 **[GovTrack](https://www.govtrack.us/congress/members/IL/17#q=61401&marker_lng=-90.37&marker_lat=40.94)**
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
-
+<p>&nbsp;</p>
 <hr>
 <h3>Issue-specific or partner organizations</h3>
 <p>&nbsp;</p>
