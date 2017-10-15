@@ -1,5 +1,5 @@
 ---
-title: Merch?
+title: Stuff
 date: 2017-10-08 16:24:00 -05:00
 position: 4
 layout: merch
