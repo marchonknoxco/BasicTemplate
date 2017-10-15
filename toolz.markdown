@@ -11,7 +11,7 @@ position: 2
 <p>&nbsp;</p>
 **[Stance](http://www.takeastance.us/)** (a phone app to leave messages for Congress)
 
-<p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. <i>Stance</i> will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy."</p>
+<p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. <i>Stance</i> will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." It's magical.</p>
 
 **[Resist-bot](https://resistbot.io/)** (a text Bot to send faxes or letters to Congress)
 
