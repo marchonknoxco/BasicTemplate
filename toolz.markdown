@@ -25,6 +25,10 @@ date: 2017-10-15 11:38:00 -05:00
 <hr>
 <h3>Even more information, call scripts, and action alerts</h3>
 
+**[Indivisible's Resource Page](http://www.indivisible.org/resources/)**
+
+<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+
 **[Wall-of-Us](https://www.wallofus.org/)**
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
