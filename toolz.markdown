@@ -15,7 +15,7 @@ position: 2
 
 **[Resist-bot](https://resistbot.io/)** (a text Bot to send faxes or letters to Congress)
 
-<p style="padding-left: 30px;">send faxes or actual letters to your representatives via text messages or Facebook messenger)Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">send faxes or actual letters to your representatives via text messages or Facebook messenger)Wall-of-Us is amazing. "Text RESIST to 50409 or [send a message on Facebook saying RESIST](https://www.messenger.com/t/resistbot). I’ll find out who represents you in Congress, and deliver your message to them in under 2 minutes. No downloads or apps required..</p>
 
 **[5 Calls](https://5calls.org/)** (a phone app to call Congress and state legislators)
 
