@@ -22,7 +22,7 @@ position: 2
 **[5 Calls](https://5calls.org/)** (a phone app to call Congress and state legislators)
 
 <p style="padding-left: 30px;">
-"Making calls is the easiest and most effective way for citizens to make an impact in national and local politics."</p>
+"Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. 5 Calls does the research for each issue, determining which representatives are most influential for which topic, collecting phone numbers for those offices, and writing scripts that clearly articulate a progressive position. You just have to call."</p>
 
 **[Grab Your Wallet](https://grabyourwallet.org/)** (a this website to see which businesses support Trump)
 
