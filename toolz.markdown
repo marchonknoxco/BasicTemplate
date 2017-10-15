@@ -77,11 +77,11 @@ Making calls is the easiest and most effective way for citizens to make an impac
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 
-**[Black Lives Matter](https://blacklivesmatter.com/)**
+**[NRDC: Natural Resources Defense Council](https://www.nrdc.org/)**
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 
-**[Black Lives Matter](https://blacklivesmatter.com/)**
+**[National Immigration Law Center](https://www.nilc.org/)**
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 
