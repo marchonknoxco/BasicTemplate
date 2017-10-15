@@ -54,7 +54,7 @@ position: 2
 
 **[Re-elect Congresswoman Bustos](http://www.cheribustos.com/)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"At a time when career politicians continue the same old politics and the same old ways, all at the expense of the middle class, Cheri Bustos has decided to take a different approach.  Since taking office, Cheri has been a strong, independent voice for Illinois' middle class, and has worked across the aisle to create jobs, protect Social Security and Medicare, stand up for our veterans and get our economy working for all families."</p>
 
 **[ACLU](https://www.aclu.org/)** 
 
@@ -62,7 +62,7 @@ position: 2
 
 **[Black Lives Matter](https://blacklivesmatter.com/)**
 
-<p style="padding-left: 30px;">"The Black Lives Matter Global Network is a chapter-based, member-led organization whose mission is to build local power and to intervene in violence inflicted on Black communities by the state and vigilantes."</p>
+<p style="padding-left: 30px;">"The Black Lives Matter Global Network is a chapter-based, member-led organization whose mission is to build local power and to intervene in violence inflicted on Black communities by the state and vigilantes. We are expansive. We are a collective of liberators who believe in an inclusive and spacious movement."</p>
 
 **[Global Giving](https://www.globalgiving.org/)**
 <p style="padding-left: 30px;">Currently focusing on those affected by natural disasters. "GlobalGiving is the largest global crowdfunding community connecting nonprofits, donors, and companies in nearly every country. We help nonprofits from Afghanistan to Zimbabwe (and hundreds of places in between) access the tools, training, and support they need to be more effective and make our world a better place."</p>
@@ -77,8 +77,8 @@ position: 2
 
 **[Natural Resources Defense Council](https://www.nrdc.org/)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"NRDC works to safeguard the earth--its people, its plants and animals, and the natural systems on which all life depends. We combine the power of more than two million members and online activists with the expertise of some 500 scientists, lawyers, and policy advocates across the globe to ensure the rights of all people to the air, the water, and the wild."</p>
 
 **[Planned Parenthood](https://www.plannedparenthood.org/get-involved)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"Planned Parenthood is one of the nation’s leading providers of high-quality, affordable health care, and the nation’s largest provider of sex education. We offer compassionate care, backed by medical experts and more than 100 years of research in reproductive health."</p>
