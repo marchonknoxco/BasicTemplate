@@ -6,9 +6,9 @@ layout: tools
 ---
 
 <p>We post calls to action on Facebook every weekday. But if you're looking for more information or for other ways to make a difference, here you go!</p>
-<h4>Indivisible on the Issues</h4>
+<p><h4>Indivisible on the Issues</h4></p>
 <p style="padding-left: 30px;">description of ...</p>
-<h4>RESIST-bot</h4>
+<p><h4>RESIST-bot</h4></p>
 <p style="padding-left: 30px;">Text RESIST to 50409 or message me on Facebook and I&rsquo;ll find out who represents you in Congress, and I'll deliver your message to them in under 2 minutes. No downloads or apps required.</p>
 <h4>5 Calls</h4>
 <p style="padding-left: 30px;">Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can&rsquo;t create the change you want to see. Calling your Government on the phone can.</p>
