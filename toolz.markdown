@@ -37,7 +37,7 @@ date: 2017-10-15 11:38:00 -05:00
 
 **[The 65](http://thesixtyfive.org/home)**
 
-<p style="padding-left: 30px;">The 65 has scripts for almost any issue you might want to call about: "Over 65 million Americans rejected Donald Trump on Election Day. What if we came together every day to fight for our vision of a diverse, inclusive America? Together, we can use our voices to remind Congress that they work for all of us."</p>
+<p style="padding-left: 30px;"><i>The 65</i> has call scripts for almost any issue you're concerned about: "Over 65 million Americans rejected Donald Trump on Election Day. What if we came together every day to fight for our vision of a diverse, inclusive America? Together, we can use our voices to remind Congress that they work for all of us."</p>
 
 **[Illinois's Resistance Wiki](https://www.resistancemanual.org/Illinois)**
 
