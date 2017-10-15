@@ -47,7 +47,7 @@ position: 2
 
 **[GovTrack](https://www.govtrack.us/congress/members/IL/17#q=61401&marker_lng=-90.37&marker_lat=40.94)**
 
-<p style="padding-left: 30px;">Track our legislators and the progress of bills in Congress. "GovTrack tracks the United States Congress and helps Americans participate in their national legislature. We publish the status of federal legislation, information about your representative and senators in Congress including voting records, and original research on bills and votes."</p>
+<p style="padding-left: 30px;">Keep tabs on our legislators and the progress of bills in Congress. "GovTrack tracks the United States Congress and helps Americans participate in their national legislature. We publish the status of federal legislation, information about your representative and senators in Congress including voting records, and original research on bills and votes."</p>
 <p>&nbsp;</p>
 <hr>
 <h3>Issue-specific organizations</h3>
