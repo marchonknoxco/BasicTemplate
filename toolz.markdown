@@ -48,7 +48,7 @@ date: 2017-10-15 11:38:00 -05:00
 <hr>
 <h3>Issue-specific or partner organizations</h3>
 
-<h5>**Black Lives Matter**</h5>
+<h5>Black Lives Matter</h5>
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 
