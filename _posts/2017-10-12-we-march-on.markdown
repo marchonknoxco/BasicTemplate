@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/20170904_100823.jpg"
 event-start-date: 2017-10-12 17:00:00 -05:00
 event-end-date: 2017-10-12 07:30:00 -05:00
