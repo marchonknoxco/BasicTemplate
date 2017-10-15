@@ -23,7 +23,7 @@ position: 2
 
 **[Grab Your Wallet](https://grabyourwallet.org/)** (check this website to see which businesses support Trump)
 
-<p style="padding-left: 30px;">Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.</p>
+<p style="padding-left: 30px;">It's a simple spreadsheet that lists businesses that support Trump or carry Trump products. It also lists businesses that have <i>stopped</i> supporting Trump. "The #GrabYourWallet boycott has grown into a movement and central resource for the flexing of consumer power in favor of a more respectful and inclusive society"</p>
 <p>&nbsp;</p>
 <hr>
 <h3>More information, more call scripts, more actions</h3>
