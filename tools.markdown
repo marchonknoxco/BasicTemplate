@@ -9,7 +9,7 @@ We post calls to action on Facebook every weekday. But if you're looking for mor
 
 description of ...
 
-Text RESIST to 50409 or message me on Facebook and I’ll find out who represents you in Congress, and I'll deliver your message to them in under 2 minutes. No downloads or apps required.
+> Text RESIST to 50409 or message me on Facebook and I’ll find out who represents you in Congress, and I'll deliver your message to them in under 2 minutes. No downloads or apps required.
 
 i5-calls s the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.
 
