@@ -66,7 +66,7 @@ position: 2
 <p style="padding-left: 30px;">"The Black Lives Matter Global Network is a chapter-based, member-led organization whose mission is to build local power and to intervene in violence inflicted on Black communities by the state and vigilantes. We are expansive. We are a collective of liberators who believe in an inclusive and spacious movement."</p>
 
 **[Global Giving](https://www.globalgiving.org/)**
-<p style="padding-left: 30px;">Currently focusing on those affected by natural disasters. "GlobalGiving is the largest global crowdfunding community connecting nonprofits, donors, and companies in nearly every country. We help nonprofits from Afghanistan to Zimbabwe (and hundreds of places in between) access the tools, training, and support they need to be more effective and make our world a better place."</p>
+<p style="padding-left: 30px;">Currently focusing on those affected by natural disasters: "GlobalGiving is the largest global crowdfunding community connecting nonprofits, donors, and companies in nearly every country. We help nonprofits from Afghanistan to Zimbabwe (and hundreds of places in between) access the tools, training, and support they need to be more effective and make our world a better place."</p>
 
 **[Human Rights Campaign](https://www.hrc.org/)**
 
