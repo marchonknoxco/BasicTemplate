@@ -5,7 +5,7 @@ position: 2
 layout: tools
 ---
 
-We post calls to action, on Facebook, every weekday. But if you're looking for more information or for other ways to make a difference, here you go ...
+We post calls to action on Facebook every weekday. But if you're looking for more information or for other ways to make a difference, here you go ...
 
 [Indivisible's Issues Page] (https://www.indivisible.org/)
 description of ...
@@ -14,7 +14,8 @@ description of ...
 
 [5 Calls](https://5calls.org/#) is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.
 
-[Wall-of-Us](https://www.wallofus.org/actions) is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media. 
+[Wall-of-Us](https://www.wallofus.org/actions)
+> Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media. 
 
 [Grab your wallet](https://grabyourwallet.org/) is the 
 
