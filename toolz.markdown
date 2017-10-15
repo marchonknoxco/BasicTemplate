@@ -41,9 +41,9 @@ position: 2
 
 <p style="padding-left: 30px;">The 65 has call scripts for almost any issue you're concerned about: "Over 65 million Americans rejected Donald Trump on Election Day. What if we came together every day to fight for our vision of a diverse, inclusive America? Together, we can use our voices to remind Congress that they work for all of us."</p>
 
-**[Illinois's Resistance Wiki](https://www.resistancemanual.org/Illinois)**
+**[Illinois's Resistance Manual](https://www.resistancemanual.org/Illinois)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">Everything you ever wanted to know about Illinois legislation, elections, progressive causes, and organizations. It's a wiki, so it's updated constantly. It also links to a national version that tracks progressive causes as they play out in the federal courts, in congress, and in the Trump administration.</p>
 
 **[GovTrack](https://www.govtrack.us/congress/members/IL/17#q=61401&marker_lng=-90.37&marker_lat=40.94)**
 
