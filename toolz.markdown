@@ -23,7 +23,7 @@ position: 2
 
 **[Grab Your Wallet](https://grabyourwallet.org/)** (check this website to see which businesses support Trump)
 
-<p style="padding-left: 30px;">It's a simple spreadsheet that lists businesses that support Trump or carry Trump products. It also lists businesses that have <i>stopped</i> supporting Trump. "The #GrabYourWallet boycott has grown into a movement and central resource for the flexing of consumer power in favor of a more respectful and inclusive society"</p>
+<p style="padding-left: 30px;">It's a simple spreadsheet that lists businesses that support Trump or carry Trump products. It also lists businesses that have <i>stopped</i> supporting Trump. "The #GrabYourWallet boycott has grown into a movement and central resource for the flexing of consumer power in favor of a more respectful and inclusive society."</p>
 <p>&nbsp;</p>
 <hr>
 <h3>More information, more call scripts, more actions</h3>
@@ -38,7 +38,7 @@ position: 2
 
 **[The 65](http://thesixtyfive.org/home)**
 
-<p style="padding-left: 30px;"><i>The 65</i> has call scripts for almost any issue you're concerned about: "Over 65 million Americans rejected Donald Trump on Election Day. What if we came together every day to fight for our vision of a diverse, inclusive America? Together, we can use our voices to remind Congress that they work for all of us."</p>
+<p style="padding-left: 30px;">The 65 has call scripts for almost any issue you're concerned about: "Over 65 million Americans rejected Donald Trump on Election Day. What if we came together every day to fight for our vision of a diverse, inclusive America? Together, we can use our voices to remind Congress that they work for all of us."</p>
 
 **[Illinois's Resistance Wiki](https://www.resistancemanual.org/Illinois)**
 
