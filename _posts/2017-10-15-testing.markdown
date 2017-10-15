@@ -1,6 +1,8 @@
 ---
 title: testing
 date: 2017-10-15 17:35:00 -05:00
+categories:
+- event
 is featured: true
 main-image: "/uploads/20170904_100824.jpg"
 event-start-date: 2017-10-28 10:00:00 -05:00
