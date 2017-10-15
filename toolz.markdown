@@ -25,7 +25,7 @@ And find out about deadlines, absentee ballots, early voting, and that kind of s
 <p style="padding-left: 30px;"> 5 Calls shows up on your phone with a list of issues you might be passionate about. After you choose one, it gives you some background and a script. Then it asks whom you want to call and even dials for you. Perfect.
 "5 Calls does the research for each issue, determining which representatives are most influential for which topic, collecting phone numbers for those offices, and writing scripts that clearly articulate a progressive position. You just have to call."</p>
 
-**[Grab Your Wallet](https://grabyourwallet.org/)** (a website that list businesses currently supporting Trump)
+**[Grab Your Wallet](https://grabyourwallet.org/)** (a website that tracks businesses currently supporting Trump)
 
 <p style="padding-left: 30px;">It's a simple spreadsheet that lists businesses that support Trump or carry Trump products. It also lists businesses that have <i>stopped</i> supporting Trump. "The #GrabYourWallet boycott has grown into a movement and central resource for the flexing of consumer power in favor of a more respectful and inclusive society."</p>
 <p>&nbsp;</p>
