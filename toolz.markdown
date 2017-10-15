@@ -30,7 +30,7 @@ position: 2
 <p>&nbsp;</p>
 **[Indivisible's Resource Page](http://www.indivisible.org/resources/)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">"Resources to Resist Trump." It includes information on current, crucial issues such as gun violence, affordable health care, the Iran deal, tensions with North Korea, and the CHIP program. You'll find information on the legislative background, the current status, and what you can do.</p>
 
 **[Wall-of-Us](https://www.wallofus.org/)**
 
