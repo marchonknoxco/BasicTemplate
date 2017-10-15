@@ -68,8 +68,8 @@ defaults:
 subtitle: Knox County citizens resisting the Trump agenda — one step at a time.   March
   on!
 email:
-- - contact@indivisibleknoxcounty.org
-- - press@indivisibleknoxcounty.org
+- contact@indivisibleknoxcounty.org
+- press@indivisibleknoxcounty.org
 baseurl: 
 url: http://indivisibleknoxcounty.org/
 twitter_username: marchonknoxco
