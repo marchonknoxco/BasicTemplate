@@ -4,7 +4,7 @@ date: 2017-10-14 14:30:00 -05:00
 position: 3
 ---
 
-![20170904_100824.jpg](/uploads/20170904_100824.jpg)<h3 style="text-align: left;">Derrin</h3>
+<h3 style="text-align: left;">Derrin</h3>
 <p style="padding-left: 30px;">Derrin gets things done.</p>
 <h3>Emily</h3>
 <p style="padding-left: 30px;">Emily uses the Resistance as a way of coping with the political <em>Twilight Zone</em> we find ourselves in. She has two kids, she is addicted to the news, and she uses a lot of exclamation points when she writes!</p>
