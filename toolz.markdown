@@ -34,7 +34,7 @@ position: 2
 
 **[Wall-of-Us](https://www.wallofus.org/)**
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing, if you're looking for variety. Four acts of resistance a week--some calls, some conversations, some candidates, and some social media. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy."</p>
+<p style="padding-left: 30px;">Wall-of-Us is amazing if you're looking for variety. Four acts of resistance a week--some calls, some conversations, some candidates, and some social media. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy."</p>
 
 **[The 65](http://thesixtyfive.org/home)**
 
