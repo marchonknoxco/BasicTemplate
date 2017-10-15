@@ -37,7 +37,7 @@ date: 2017-10-15 11:38:00 -05:00
 
 **[The 65](http://thesixtyfive.org/home)**
 
-<p style="padding-left: 30px;">Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.</p>
+<p style="padding-left: 30px;">The 65 has scripts for almost any issue you might want to call about: "Over 65 million Americans rejected Donald Trump on Election Day. What if we came together every day to fight for our vision of a diverse, inclusive America? Together, we can use our voices to remind Congress that they work for all of us."</p>
 
 **[Illinois's Resistance Wiki](https://www.resistancemanual.org/Illinois)**
 
