@@ -5,7 +5,7 @@ date: 2017-10-15 11:38:00 -05:00
 
 <h3>Tools for making actions even easier</h3>
 
-**Stance** (text messages)
+**[Stance](http://www.takeastance.us/)** (text messages)
 
 Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.
 
