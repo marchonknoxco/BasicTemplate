@@ -3,11 +3,11 @@ title: Toolz
 date: 2017-10-15 11:38:00 -05:00
 ---
 
-<h2>Register to vote!</h2>
+<h3>Register to vote!</h3>
 <p>&nbsp;</p>
 <hr>
 <h3>Tools for making actions even easier</h3>
-
+<p>&nbsp;</p>
 **[Stance](http://www.takeastance.us/)** (text messages)
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
@@ -26,7 +26,7 @@ date: 2017-10-15 11:38:00 -05:00
 
 <hr>
 <h3>Even more information, call scripts, and action alerts</h3>
-
+<p>&nbsp;</p>
 **[Indivisible's Resource Page](http://www.indivisible.org/resources/)**
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
@@ -49,7 +49,7 @@ date: 2017-10-15 11:38:00 -05:00
 
 <hr>
 <h3>Issue-specific or partner organizations</h3>
-
+<p>&nbsp;</p>
 **[Black Lives Matter](https://blacklivesmatter.com/)**
 
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
