@@ -26,7 +26,7 @@ position: 2
 <p style="padding-left: 30px;">Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.</p>
 <p>&nbsp;</p>
 <hr>
-<h3>More information, more call scripts, more action alerts</h3>
+<h3>More information, more call scripts, more actions</h3>
 <p>&nbsp;</p>
 **[Indivisible's Resource Page](http://www.indivisible.org/resources/)**
 
