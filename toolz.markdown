@@ -66,11 +66,11 @@ Making calls is the easiest and most effective way for citizens to make an impac
 
 Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.
 
-Swing Left
+**[The ACLU](https://www.aclu.org/)**
 
 Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.
 
-The Women's March
+**[Global Giving](https://www.globalgiving.org/)**
 
 Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.
 
