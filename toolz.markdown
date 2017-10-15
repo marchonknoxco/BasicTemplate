@@ -10,7 +10,7 @@ date: 2017-10-15 11:38:00 -05:00
 <p>&nbsp;</p>
 **[Stance](http://www.takeastance.us/)** (phone app)
 
-<p style="padding-left: 30px;">Nervous about calling and office? <i>Stance</i> is brilliant--record a message and it will go straight voicemail. "Record a voice message anytime, anywhere. Stance will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy."</p>
+<p style="padding-left: 30px;">Nervous about calling an office? <i>Stance</i> is brilliant--record a message and it will go straight voicemail. "Record a voice message anytime, anywhere. Stance will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy."</p>
 
 **[Resist-bot](https://resistbot.io/)** (Use Facebook or text messages to write Congress)
 
