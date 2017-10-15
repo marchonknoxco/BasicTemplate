@@ -6,7 +6,7 @@ date: 2017-10-15 11:38:00 -05:00
 <h3><a href="https://www.vote.org/state/illinois/">Register to vote!</a></h3>
 <p>&nbsp;</p>
 <hr>
-<h3>Tools for making actions even easier</h3>
+<h3>Resisting has never been this easy</h3>
 <p>&nbsp;</p>
 **[Stance](http://www.takeastance.us/)** (text messages)
 
@@ -25,7 +25,7 @@ date: 2017-10-15 11:38:00 -05:00
 <p style="padding-left: 30px;">Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.</p>
 <p>&nbsp;</p>
 <hr>
-<h3>Even more information, call scripts, and action alerts</h3>
+<h3>More information, more call scripts, more action alerts</h3>
 <p>&nbsp;</p>
 **[Indivisible's Resource Page](http://www.indivisible.org/resources/)**
 
@@ -48,7 +48,7 @@ date: 2017-10-15 11:38:00 -05:00
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 <p>&nbsp;</p>
 <hr>
-<h3>Issue-specific or partner organizations</h3>
+<h3>Issue-specific organizations</h3>
 <p>&nbsp;</p>
 
 **[Re-elect Congresswoman Bustos](http://www.cheribustos.com/)**
