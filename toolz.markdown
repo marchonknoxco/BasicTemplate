@@ -3,7 +3,7 @@ title: Toolz
 date: 2017-10-15 11:38:00 -05:00
 ---
 
-[<h3>Register to vote!</h3>](https://www.vote.org/state/illinois/)
+[Register to vote!](https://www.vote.org/state/illinois/)
 <p>&nbsp;</p>
 <hr>
 <h3>Tools for making actions even easier</h3>
