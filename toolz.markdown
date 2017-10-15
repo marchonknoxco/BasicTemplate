@@ -9,19 +9,20 @@ position: 2
 <hr>
 <h3>Resisting has never been this easy</h3>
 <p>&nbsp;</p>
-**[Stance](http://www.takeastance.us/)** (use this phone app to leave messages for Congress)
+**[Stance](http://www.takeastance.us/)** (a phone app to leave messages for Congress)
 
 <p style="padding-left: 30px;">Nervous about calling an office? <i>Stance</i> is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. <i>Stance</i> will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy."</p>
 
-**[Resist-bot](https://resistbot.io/)** (use this Bot to send faxes or letters to Congress)
+**[Resist-bot](https://resistbot.io/)** (a text Bot to send faxes or letters to Congress)
 
 <p style="padding-left: 30px;">send faxes or actual letters to your representatives via text messages or Facebook messenger)Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 
-**[5 Calls](https://5calls.org/)** (use this phone app to call Congress and state legislators)
+**[5 Calls](https://5calls.org/)** (a phone app to call Congress and state legislators)
 
-<p style="padding-left: 30px;">Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.</p>
+<p style="padding-left: 30px;">
+"Making calls is the easiest and most effective way for citizens to make an impact in national and local politics."</p>
 
-**[Grab Your Wallet](https://grabyourwallet.org/)** (check this website to see which businesses support Trump)
+**[Grab Your Wallet](https://grabyourwallet.org/)** (a this website to see which businesses support Trump)
 
 <p style="padding-left: 30px;">It's a simple spreadsheet that lists businesses that support Trump or carry Trump products. It also lists businesses that have <i>stopped</i> supporting Trump. "The #GrabYourWallet boycott has grown into a movement and central resource for the flexing of consumer power in favor of a more respectful and inclusive society."</p>
 <p>&nbsp;</p>
