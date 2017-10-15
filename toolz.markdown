@@ -22,7 +22,7 @@ Making calls is the easiest and most effective way for citizens to make an impac
 Making calls is the easiest and most effective way for citizens to make an impact in national and local politics. Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.
 
  
-Even more information, call scripts, and action alerts
+<h3>Even more information, call scripts, and action alerts</h3>
 
 **Wall-of-Us**
 
@@ -45,7 +45,7 @@ Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americ
 Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.
 
  
-Issue-specific or partner organizations
+<h3>Issue-specific or partner organizations</h3>
 
 **Black Lives Matter**
 
