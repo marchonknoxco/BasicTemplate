@@ -5,7 +5,7 @@ position: 2
 layout: tools
 ---
 
-<h3>Tools for making actions even easier</h3>
+<p><h3>Tools for making actions even easier</h3></>
 <p><a href="http://www.takeastance.us/">Stance</a> (text messages)</p>
 <p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 <p><a href="https://resistbot.io/">Resist-bot</a> (Use Facebook or text messages to write Congress)</p>
