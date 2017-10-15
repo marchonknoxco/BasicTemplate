@@ -5,7 +5,7 @@ position: 2
 ---
 
 <h3><a href="https://www.vote.org/state/illinois/">Register to vote!</a></h3>
-
+plus deadlines, absentee ballots, early voting, and more
 <p>&nbsp;</p>
 <hr>
 <h3>Resisting has never been this easy</h3>
