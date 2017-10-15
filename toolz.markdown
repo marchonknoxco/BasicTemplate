@@ -5,13 +5,14 @@ position: 2
 ---
 
 <h3><a href="https://www.vote.org/state/illinois/">Register to vote!</a></h3>
+
 <p>&nbsp;</p>
 <hr>
 <h3>Resisting has never been this easy</h3>
 <p>&nbsp;</p>
 **[Stance](http://www.takeastance.us/)** (a phone app to leave messages for Congress)
 
-<p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. <i>Stance</i> will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." It's magical.</p>
+<p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. <i>Stance</i> will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." <b>It's magical.</b></p>
 
 **[Resist-bot](https://resistbot.io/)** (a text Bot to send faxes or letters to Congress)
 
