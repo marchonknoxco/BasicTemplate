@@ -1,5 +1,5 @@
 ---
-title: Toolz
+title: Tools and info
 date: 2017-10-15 11:38:00 -05:00
 position: 2
 ---
