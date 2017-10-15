@@ -22,7 +22,7 @@ And find out about deadlines, absentee ballots, early voting, and that kind of s
 
 **[5 Calls](https://5calls.org/)** (a phone app to call Congress and state legislators)
 
-<p style="padding-left: 30px;"> 5 Calls shows up on your phone with a list of issues you might be passionate about. After you choose one, it gives you a lot of background. And then it asks you whom you want to call and actual dials for you. Perfect.
+<p style="padding-left: 30px;"> 5 Calls shows up on your phone with a list of issues you might be passionate about. After you choose one, it gives you some background and a script. Then it asks whom you want to call and even dials for you. Perfect.
 "5 Calls does the research for each issue, determining which representatives are most influential for which topic, collecting phone numbers for those offices, and writing scripts that clearly articulate a progressive position. You just have to call."</p>
 
 **[Grab Your Wallet](https://grabyourwallet.org/)** (a this website to see which businesses support Trump)
