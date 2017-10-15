@@ -17,7 +17,7 @@ position: 2
 
 <span><p style="padding-left: 30px;">Send a text message or a Facebook message to Resist-bot, and it forwards that message as a fax to your representative, your senators, the president, or your governor. "Text RESIST to 50409 or [send a message on Facebook saying RESIST](https://www.messenger.com/t/resistbot). I’ll find out who represents you and deliver your message to them in under 2 minutes. No downloads or apps required."</p>
 
-<p>As you send more and more messages, you "level up" and can start sending actual letters, signing letters with your actual signature, and getting alerts about town halls in your district. Resist-bot is **amazing**.</p></div>
+<p>As you send more and more messages, you "level up" and can start sending actual letters, signing letters with your real signature, and getting alerts about town halls in your district. Resist-bot is **amazing**.</p></div>
 
 </p>
 
