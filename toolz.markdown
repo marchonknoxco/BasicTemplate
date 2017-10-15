@@ -12,9 +12,9 @@ date: 2017-10-15 11:38:00 -05:00
 
 <p style="padding-left: 30px;">Nervous about calling an office? <i>Stance</i> is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. <i>Stance</i> will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy."</p>
 
-**[Resist-bot](https://resistbot.io/)** (send actual letters to Congress via text messages or Facebook messenger)
+**[Resist-bot](https://resistbot.io/)** (use this Bot to send faxes or letters to Congress)
 
-<p style="padding-left: 30px;">Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
+<p style="padding-left: 30px;">send faxes or actual letters to your representatives via text messages or Facebook messenger)Wall-of-Us is amazing. "Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." Four weekly acts of resistance--some calls, some conversations, some candidates, and some social media.</p>
 
 **[5 Calls](https://5calls.org/)** (use this phone app to call Congress and state legislators)
 
