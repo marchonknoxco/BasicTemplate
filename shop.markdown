@@ -1,6 +1,7 @@
 ---
 title: Shop
 date: 2017-10-14 22:09:00 -05:00
+published: false
 position: 4
 ---
 
