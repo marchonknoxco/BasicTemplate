@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - brunch
-is featured: true
+is featured: false
 main-image: "/uploads/breakfast(1).png"
 event-start-date: 2017-10-28 10:00:00 -05:00
 event-end-date: 2017-10-28 11:30:00 -05:00
