@@ -54,6 +54,7 @@
             {% if representatives.website %}<li><a href="{{ representatives.website }}"><strong><u>Website</u></strong></a></li>{% endif %}
             {% for phone-numbers in representatives.phone-numbers %}
                    {% if phone-numbers[0] !="office-name" %}
+              {% if email[0] !="mailto:info@brucerauner.com" %}
               <li>
                 <small>{{ phone-numbers[0] }}</small><br><strong>{{ phone-numbers.[1] }}</strong>
               </li>
