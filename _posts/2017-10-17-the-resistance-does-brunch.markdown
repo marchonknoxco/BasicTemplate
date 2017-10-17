@@ -9,7 +9,9 @@ is featured: false
 main-image: "/uploads/breakfast(1).png"
 event-start-date: 2017-10-28 10:00:00 -05:00
 event-end-date: 2017-10-28 11:30:00 -05:00
-Location: The Broadview, 29 Public Square, Galesburg
+Location: |-
+  The Broadview, 29 Public Square, Galesburg
+  RSVP:  http://indivisibleknoxcounty.rsvpify.com
 RSVP-link: http://indivisibleknoxcounty.rsvpify.com
 layout: default
 ---
