@@ -3,8 +3,6 @@ title: No war with Iran
 date: 2017-10-17 10:36:00 -05:00
 categories:
 - action
-tags:
-- Iran
 is featured: false
 call-script-text: |-
   Caller: Hello, I’m a constituent from [part of state] and I’m very concerned about the Iran deal. Trump foolishly decertified it even though Iran is complying and it’s keeping us all safe. It’s up to Congress now—will [MoC] commit not to reimpose sanctions that would kill the deal and risk war with Iran?
@@ -20,7 +18,7 @@ call-script-text: |-
   Staffer: I’ll certainly relay your concerns to [MoC].
 
   Caller: Yes, please do. I consider a vote to re-impose sanctions as a vote for war with Iran, and I will be watching closely to make sure [MoC] does not let that happen.
-layout: actions
+layout: post
 ---
 
 Trump announced on October 13, 2017 that he is decertifying the Iran nuclear deal. He is supposed to certify every 90 days that Iran is complying with the deal, but even though international inspectors and his own national security officials say that Iran is complying with the deal, Trump is decertifying it anyway.
