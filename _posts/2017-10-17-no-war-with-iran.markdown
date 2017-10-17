@@ -20,6 +20,7 @@ call-script-text: |-
   Staffer: I’ll certainly relay your concerns to [MoC].
 
   Caller: Yes, please do. I consider a vote to re-impose sanctions as a vote for war with Iran, and I will be watching closely to make sure [MoC] does not let that happen.
+layout: actions
 ---
 
 Trump announced on October 13, 2017 that he is decertifying the Iran nuclear deal. He is supposed to certify every 90 days that Iran is complying with the deal, but even though international inspectors and his own national security officials say that Iran is complying with the deal, Trump is decertifying it anyway.
