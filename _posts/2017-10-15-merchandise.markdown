@@ -3,7 +3,7 @@ title: Merchandise
 date: 2017-10-15 19:08:00 -05:00
 categories:
 - post
-is featured: true
+is featured: false
 ---
 
 We designed these things just in case you want them. (Also, one of us likes to design t-shirts in her spare time. Claims it is relaxing.) 
