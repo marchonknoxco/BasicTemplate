@@ -5,6 +5,7 @@ phone-numbers:
   Chicago office: "(312) 583-0704"
 website: https://www.brucerauner.com/
 email:
-  Email: href="mailto:{{info@brucerauner.com}">{{ info@brucerauner.com }}
+  email:
+    a@site.org: info@brucerauner.com
 ---
 
