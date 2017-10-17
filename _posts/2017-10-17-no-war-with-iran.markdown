@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - Iran
-is featured: true
+is featured: false
 call-script-text: |-
   Caller: Hello, I’m a constituent from [part of state] and I’m very concerned about the Iran deal. Trump foolishly decertified it even though Iran is complying and it’s keeping us all safe. It’s up to Congress now—will [MoC] commit not to reimpose sanctions that would kill the deal and risk war with Iran?
 
