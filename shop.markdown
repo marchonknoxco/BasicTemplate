@@ -11,4 +11,4 @@ We designed these things just in case you want them. (Also, one of us likes to d
 
 All designs are available in all styles and colors. Also---mugs, kids' clothes, and bags. We happen to think the stuff is cool, but we’re partial.
 
-[![merch.png](/uploads/merch.png)](https://www.redbubble.com/people/MarchOnKnoxCo/shop?asc=u)
+[![merch.png](/uploads/merch.png)](https://www.redbubble.com/people/marchonknoxco/collections/776555-march-on?asc=u//www.redbubble.com/people/MarchOnKnoxCo/shop?asc=u)
