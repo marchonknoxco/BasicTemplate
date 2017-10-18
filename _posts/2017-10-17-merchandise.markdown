@@ -6,7 +6,7 @@ categories:
 tags:
 - merch
 is featured: true
-main-image: "/uploads/merch.png"
+main-image: "/uploads/White%20on%20blue.png"
 ---
 
 We designed these things just in case you want them. **All items are sold at cost.** We happen to think the stuff is cool, but we’re partial. 
