@@ -2,7 +2,7 @@
 title: The Resistance does Brunch
 date: 2017-10-18 07:14:00 -05:00
 categories:
-- action
+- event
 tags:
 - brunch
 main-image: "/uploads/breakfast(1).png"
