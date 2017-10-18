@@ -1,6 +1,6 @@
 ---
 title: Repeal by Executive Order—Trump’s Latest Health Care Sabotage
-date: 2017-10-18 07:18:00 -05:00
+date: 2017-10-18 01:00:00 -05:00
 categories:
 - action
 tags:
