@@ -1,5 +1,5 @@
 ---
-title: Merchandise
+title: Merch
 date: 2017-10-17 16:20:00 -05:00
 categories:
 - post
