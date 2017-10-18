@@ -14,7 +14,7 @@ Location: |-
 RSVP-link: http://indivisibleknoxcounty.rsvpify.com
 ---
 
-[](https://www.google.com/maps/place/Broadview+Restaurant+%26+Lounge/@40.9481841,-90.3740992,17z/data=!4m13!1m7!3m6!1s0x87e1be06288363e5:0xab97e2f216ad23bd!2s29+Public+Square,+Galesburg,+IL+61401!3b1!8m2!3d40.9481841!4d-90.3719105!3m4!1s0x87e1be08afcec89d:0xce4691f8d4339a03!8m2!3d40.9482139!4d-90.3715972)Budgets! DACA! Climate change! Iran! And that wall ...
+Budgets! DACA! Climate change! Iran! And that wall ...
 
 Just a bit more laid back and over coffee and eggs, our Brunch meetings are on the fourth Saturday of every month. We will review the issues covered during Thursday evening meetings--the second Thursday of every month--and catch up on what's happened in the meantime.
 
@@ -25,3 +25,5 @@ Come late or leave early if you need to, and come one, come all. Drink coffee! E
 The Broadview is a low-key greasy spoon kind of place--exactly where you'd want to get pancakes and potatoes. It's seat yourself, so just wander toward the left and then to the back. We'll be the folks with pieces of paper, and we'll either be laughing or scowling, depending on the conversation.
 
 Let’s happen to things!
+
+[Map](https://www.google.com/maps/place/Broadview+Restaurant+%26+Lounge/@40.9481841,-90.3740992,17z/data=!4m13!1m7!3m6!1s0x87e1be06288363e5:0xab97e2f216ad23bd!2s29+Public+Square,+Galesburg,+IL+61401!3b1!8m2!3d40.9481841!4d-90.3719105!3m4!1s0x87e1be08afcec89d:0xce4691f8d4339a03!8m2!3d40.9482139!4d-90.3715972)
