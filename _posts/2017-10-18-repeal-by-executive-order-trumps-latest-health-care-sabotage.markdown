@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - Iran
-main-image: "/uploads/health-care-human-right-movement-cards-send-online-9553_76.jpg"
+main-image: "/uploads/st,small,215x235-pad,210x230,f8f8f8.lite-1u19.jpg"
 call-script-text: |-
   Caller: Good morning/afternoon! Can you let me know Representative/Senator _____’s position on the bipartisan efforts to stabilize the health insurance markets?
   OPTION 1: SUPPORTS
