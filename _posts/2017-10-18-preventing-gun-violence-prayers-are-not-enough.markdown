@@ -5,7 +5,6 @@ categories:
 - action
 tags:
 - guns
-main-image: "/uploads/StopViolence.jpg"
 call-script-text: |-
   Caller: Hello, I’m a constituent from [part of state] calling regarding the mass shooting in Las Vegas. I urge Senator/Representative [name] to not just condemn this act of terror, but to support responsible policies that help prevent these acts of gun violence.
 
