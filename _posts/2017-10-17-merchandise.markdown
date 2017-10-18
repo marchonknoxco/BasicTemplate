@@ -9,8 +9,10 @@ is featured: true
 main-image: "/uploads/merch.png"
 ---
 
-<p>We designed these things just in case you want them. <b>All items are sold at cost.</b> We happen to think the stuff is cool, but we&rsquo;re partial.</p>
-<p>Neither March On: Indivisible, its organizers, nor the national Indivisible group earns any money from these sales. You're just paying for the thing. <b>No profit here.</b></p>
-<p>All designs are available in all styles and colors. Also--mugs, kids' clothes, and bags. (One of us likes to design t-shirts in her spare time. Claims it is relaxing.)</p>
+We designed these things just in case you want them. **All items are sold at cost.** 
 
-[![merch.png](/uploads/merch.png)](https://www.redbubble.com/people/marchonknoxco/works/27239415-just-white?asc=u&c=776555-march-on&p=triblend-tee&ref=work_collections_grid)
+Neither March On: Indivisible, its organizers, nor the national Indivisible group earns any money from these sales. You're just paying for the thing. **No profit here.**
+
+All designs are available in all styles and colors. Also---mugs, kids' clothes, and bags. We happen to think the stuff is cool, but we’re partial. (Also, one of us likes to design t-shirts in her spare time. Claims it is relaxing.) 
+
+[![merch.png](/uploads/merch.png)](https://www.redbubble.com/people/marchonknoxco/collections/776555-march-on?asc=u//www.redbubble.com/people/MarchOnKnoxCo/shop?asc=u)
