@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/merch.png"
 ---
 
-We designed these things just in case you want them. <b>All items are sold at cost.</b> We happen to think the stuff is cool, but we’re partial.
+We designed these things just in case you want them. <b>All items are sold at cost.</b> We happen to think the stuff is cool, but we’re partial. 
 
 Neither March On: Indivisible, its organizers, nor the national Indivisible group earns any money from these sales. You're just paying for the thing. <b>No profit here.</>
 
