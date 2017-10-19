@@ -10,22 +10,22 @@ Register to vote. Check registration status. Get your absentee ballot. Find your
 <hr>
 <h3>Resisting has never been this easy</h3>
 <p>&nbsp;</p>
-**[Stance](http://www.takeastance.us/)** (a phone app that sends voicemails to Congress)
+![175x175bb.jpg](/uploads/175x175bb.jpg)</br>**[Stance](http://www.takeastance.us/)** (a phone app that sends voicemails to Congress)
 
-<p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. <i>Stance</i> will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." <b>It's magical.</b></p>
+<p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. Stance will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." <b>It's magical.</b></p>
 
-**[Resist-bot](https://resistbot.io/)** (a text Bot that sends faxes or letters to Congress)
+![71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png](/uploads/71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png)</br>**[Resist-bot](https://resistbot.io/)** (a text Bot that sends faxes or letters to Congress)
 
 <p style="padding-left: 30px;">Send a text message or a Facebook message to Resist-bot, and it faxes that message to your representative, your senators, the president, or your governor. "Text RESIST to 50409 or <a href="https://www.messenger.com/t/resistbot">send a message on Facebook saying RESIST</a>. It finds out who represents you and delivers your message to them in under 2 minutes. No downloads or apps required."</p>
 
 <p style="padding-left: 30px;">As you send more and more messages, you "level up" and can start sending actual letters, signing letters with your real signature, and getting alerts about town halls in your district. <b>Resist-bot is amazing</b>.</p>
 
-**[5 Calls](https://5calls.org/)** (a phone app that helps you call Congress and state legislators)
+![5calls-stars.png](/uploads/5calls-stars.png)</br>**[5 Calls](https://5calls.org/)** (a phone app that helps you call Congress and state legislators)
 
 <p style="padding-left: 30px;"> 5 Calls shows up on your phone with a list of issues you might be passionate about. After you choose one, it gives you some background and a script. Then it asks whom you want to call and even dials for you. Perfect.
 "5 Calls does the research for each issue, determining which representatives are most influential for which topic, collecting phone numbers for those offices, and writing scripts that clearly articulate a progressive position. You just have to call."</p>
 
-**[Grab Your Wallet](https://grabyourwallet.org/)** (a website that tracks businesses currently supporting Trump)
+![images.jpg](/uploads/images.jpg)</br>**[Grab Your Wallet](https://grabyourwallet.org/)** (a website that tracks businesses currently supporting Trump)
 
 <p style="padding-left: 30px;">It's a simple spreadsheet that lists businesses that support Trump or carry Trump products. It also lists businesses that have <i>stopped</i> supporting Trump. "The #GrabYourWallet boycott has grown into a movement and central resource for the flexing of consumer power in favor of a more respectful and inclusive society."</p>
 <p>&nbsp;</p>
