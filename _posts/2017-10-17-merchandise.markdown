@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/White%20on%20blue.png"
 ---
 
-We designed these things just in case you want them. **All items are sold at cost.** (We happen to think the stuff is cool, but we’re partial.) 
+We designed these things just in case you want them. **All items are sold at cost.** (We happen to think they're cool, but we’re partial.) 
 
 Neither *March On: Indivisible Knox County*, its organizers, nor the national *Indivisible* group earns any money from these sales. You're just paying for the thing. **No profit here.**
 
