@@ -1,6 +1,6 @@
 ---
 title: 'Preventing Gun Violence: Prayers are Not Enough'
-date: 2017-10-18 10:23:00 -05:00
+date: 2017-10-19 10:23:00 -05:00
 categories:
 - action
 tags:
