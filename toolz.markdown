@@ -5,7 +5,7 @@ position: 2
 ---
 
 <h3><a href="https://www.vote.org/state/illinois/">Register to vote!</a></h3>
-Register to vote. Check registration status. Get your absentee ballot. Find your polling place. And get election reminders.
+Register to vote. Check registration status. Get your absentee ballot. Find your polling place. Get election reminders.
 <p>&nbsp;</p>
 <hr>
 <h3>Resisting has never been this easy</h3>
