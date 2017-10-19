@@ -7,9 +7,10 @@ tags:
 - health care
 main-image: "/uploads/st,small,215x235-pad,210x230,f8f8f8.lite-1u19.jpg"
 call-script-text: |-
-  [More information here ...](https://www.indivisible.org/resource/repeal-executive-order-trumps-latest-health-care-sabotage-explained/)
+  <hr><p style="padding-left: 30px;">Heads up: [MoC] means "Member of Congress." (Also, you can find more background on the issue <a href="https://www.indivisible.org/resource/repeal-executive-order-trumps-latest-health-care-sabotage-explained/">here</a>.)</p><hr>
 
   Caller: Good morning/afternoon! Can you let me know Representative/Senator _____’s position on the bipartisan efforts to stabilize the health insurance markets?
+
   OPTION 1: SUPPORTS
 
   Staffer: Thank you for calling. Representative/Senator ______ supports Senator Murray and Senator Alexander’s efforts to stabilize the markets, and hopes they can reach an agreement that will keep costs down for consumers.
