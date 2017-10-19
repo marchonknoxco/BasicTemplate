@@ -9,11 +9,13 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div
   id=\"mc_embed_signup\">\n<form action=\"https://indivisibleknoxcounty.us15.list-manage.com/subscribe/post?u=c49a45177064bf6bbe5bb68e4&amp;id=4f476e8b28\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
-  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email Address </label>\n\t<input
-  type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-NAME\">Name </label>\n\t<input type=\"text\"
-  value=\"\" name=\"NAME\" class=\"\" id=\"mce-NAME\">\n</div>\n<div class=\"mc-field-group
+  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
+  to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
+  indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email
+  Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\" value=\"\"
+  name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
+  for=\"mce-NAME\">Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"text\"
+  value=\"\" name=\"NAME\" class=\"required\" id=\"mce-NAME\">\n</div>\n<div class=\"mc-field-group
   size1of2\">\n\t<label for=\"mce-TELEPHONE\">Telephone </label>\n\t<input type=\"number\"
   name=\"TELEPHONE\" class=\"\" value=\"\" id=\"mce-TELEPHONE\">\n</div>\n\t<div id=\"mce-responses\"
   class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div
