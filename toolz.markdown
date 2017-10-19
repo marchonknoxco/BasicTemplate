@@ -10,13 +10,13 @@ Register to vote. Check registration status. Get your absentee ballot. Find your
 <hr>
 <h3>Resisting has never been this easy</h3>
 <p>&nbsp;</p>
-![175x175bb.jpg](/uploads/175x175bb.jpg)
+[![175x175bb.jpg](/uploads/175x175bb.jpg)](http://www.takeastance.us/)
 
 **[Stance](http://www.takeastance.us/)** (a phone app that sends voicemails to Congress)
 
 <p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. Stance will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." <b>It's magical.</b></p>
 
-![71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png](/uploads/71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png)
+[![71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png](/uploads/71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png)](https://resistbot.io/)
 
 **[Resist-bot](https://resistbot.io/)** (a text Bot that sends faxes or letters to Congress)
 
@@ -24,7 +24,7 @@ Register to vote. Check registration status. Get your absentee ballot. Find your
 
 <p style="padding-left: 30px;">As you send more and more messages, you "level up" and can start sending actual letters, signing letters with your real signature, and getting alerts about town halls in your district. <b>Resist-bot is amazing</b>.</p>
 
-![5calls-stars.png](/uploads/5calls-stars.png)
+[![5calls-stars.png](/uploads/5calls-stars.png)](https://5calls.org/)
 
 **[5 Calls](https://5calls.org/)** (a phone app that helps you call Congress and state legislators)
 
