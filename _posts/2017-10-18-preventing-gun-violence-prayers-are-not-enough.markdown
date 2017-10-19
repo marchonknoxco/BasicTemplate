@@ -7,6 +7,8 @@ tags:
 - guns
 main-image: "/uploads/stop_gun_violence_classic_round_sticker-r06010fa5af934480bab43763247385f4_v9waf_8byvr_324.jpg"
 call-script-text: |-
+  [More information here ...](https://www.indivisible.org/resource/preventing-gun-violence-tell-members-congress-prayers-not-enough/)
+
   Caller: Hello, I’m a constituent from [part of state] calling regarding the mass shooting in Las Vegas. I urge Senator/Representative [name] to not just condemn this act of terror, but to support responsible policies that help prevent these acts of gun violence.
 
   Staffer: Thank you for calling, [MoC] has issued a statement condemning this attack, extending thoughts and prayers, and is listening for more information about the incident.
