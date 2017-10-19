@@ -15,6 +15,7 @@ Register to vote. Check registration status. Get your absentee ballot. Find your
 **[Stance](http://www.takeastance.us/)** (a phone app that sends voicemails to Congress)
 
 <p style="padding-left: 30px;">Nervous about calling an office? Stance is brilliant--your messages will go straight to voicemail overnight. "Record a voice message anytime, anywhere. Stance will send it directly to your representative's phone. Our mission is to make it simply irresistible for Americans to become active participants in rebuilding our democracy." <b>It's magical.</b></p>
+
 ![71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png](/uploads/71HJJGzowFL._SL210_QL95_BG0,0,0,0_FMpng_.png)
 
 **[Resist-bot](https://resistbot.io/)** (a text Bot that sends faxes or letters to Congress)
@@ -22,12 +23,14 @@ Register to vote. Check registration status. Get your absentee ballot. Find your
 <p style="padding-left: 30px;">Send a text message or a Facebook message to Resist-bot, and it faxes that message to your representative, your senators, the president, or your governor. "Text RESIST to 50409 or <a href="https://www.messenger.com/t/resistbot">send a message on Facebook saying RESIST</a>. It finds out who represents you and delivers your message to them in under 2 minutes. No downloads or apps required."</p>
 
 <p style="padding-left: 30px;">As you send more and more messages, you "level up" and can start sending actual letters, signing letters with your real signature, and getting alerts about town halls in your district. <b>Resist-bot is amazing</b>.</p>
+
 ![5calls-stars.png](/uploads/5calls-stars.png)
 
 **[5 Calls](https://5calls.org/)** (a phone app that helps you call Congress and state legislators)
 
 <p style="padding-left: 30px;"> 5 Calls shows up on your phone with a list of issues you might be passionate about. After you choose one, it gives you some background and a script. Then it asks whom you want to call and even dials for you. Perfect.
 "5 Calls does the research for each issue, determining which representatives are most influential for which topic, collecting phone numbers for those offices, and writing scripts that clearly articulate a progressive position. You just have to call."</p>
+
 ![isupportimg_1480014941629.jpg](/uploads/isupportimg_1480014941629.jpg)
 
 **[Grab Your Wallet](https://grabyourwallet.org/)** (a website that tracks businesses currently supporting Trump)
