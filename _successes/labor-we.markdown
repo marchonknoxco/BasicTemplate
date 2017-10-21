@@ -8,6 +8,6 @@ main-image: "/uploads/20170904_100423.jpg"
 link: 
 ---
 
-text
+Short description of event ...
 
 [More photos](https://photos.app.goo.gl/5QoAFr914rraSnMf2)
