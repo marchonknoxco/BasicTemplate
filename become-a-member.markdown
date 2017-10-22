@@ -32,8 +32,10 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-Members of March On: Indivisible Knox County are defined by our action and solidarity in an opposition to Trump and Trumpism. Each of us explicitly reserves our individual stances on specific issues, but we believe resisting Trump is more important than any particular issue. We adhere to a Code of Conduct that welcomes and respects everybody.
+Members of March On: Indivisible Knox County are united by our action and our solidarity in opposition to Trump and Trumpism. 
 
-We come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
+Each of us explicitly reserves our individual stances on specific issues, but we believe resisting Trump is more important than agreeing on every particular issue. We adhere to a Code of Conduct that welcomes and respects everybody.
+
+We come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and others have been at this for decades. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
 **Take what you like and leave the rest. All are welcome.**
