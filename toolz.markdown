@@ -93,3 +93,7 @@ Register to vote. Check registration status. Get your absentee ballot. Find your
 **[Planned Parenthood](https://www.plannedparenthood.org/get-involved)**
 
 <p style="padding-left: 30px;">"Planned Parenthood is one of the nation’s leading providers of high-quality, affordable health care, and the nation’s largest provider of sex education. We offer compassionate care, backed by medical experts and more than 100 years of research in reproductive health."</p>
+
+**[The Southern Poverty Law Center](https://www.splcenter.org/)**
+
+<p style="padding-left: 30px;">The Southern Poverty Law Center is dedicated to fighting hate and bigotry and to seeking justice for the most vulnerable members of our society. Using litigation, education, and other forms of advocacy, the SPLC works toward the day when the ideals of equal justice and equal opportunity will be a reality.</p>
