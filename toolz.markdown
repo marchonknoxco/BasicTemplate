@@ -53,7 +53,7 @@ Register to vote. Check registration status. Get your absentee ballot. Find your
 
 **[Illinois's Resistance Manual](https://www.resistancemanual.org/Illinois)**
 
-<p style="padding-left: 30px;">Everything you ever wanted to know about Illinois's legislation, elections, progressive causes, and organizations. It also links to a national version that tracks progressive causes as they play out in the the federal system."There are more of us who believe in equity and justice than those who support an ideology of fear and hate. Together, we can harness the collective power of the people to resist the impact of a Trump presidency and to continue to make progress in our communities."</p>
+<p style="padding-left: 30px;">Everything you ever wanted to know about Illinois's legislation, elections, progressive causes, and organizations. It also links to a national version that tracks progressive causes as they play out in the the federal system. "There are more of us who believe in equity and justice than those who support an ideology of fear and hate. Together, we can harness the collective power of the people to resist the impact of a Trump presidency and to continue to make progress in our communities."</p>
 
 **[GovTrack](https://www.govtrack.us/congress/members/IL/17#q=61401&marker_lng=-90.37&marker_lat=40.94)**
 
