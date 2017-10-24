@@ -19,4 +19,4 @@ position: 3
 <p style="padding-left: 30px;">Katya is our press contact.</p>
 ![21032434_10159266236565707_4306126156265072690_n.jpg](/uploads/21032434_10159266236565707_4306126156265072690_n.jpg)
 <h3 style="text-align: left;">Mary Jane</h3>
-<p style="padding-left: 30px;">MJ is our girl on the ground, and nothing happens unless she makes it happen. She knows 10% about everything and everyone.</p>
+<p style="padding-left: 30px;">MJ is our girl on the ground, and nothing happens unless she makes it happen. She knows 10% about everything and everyone. (According to her. Others of us would say it's considerably more.)</p>
