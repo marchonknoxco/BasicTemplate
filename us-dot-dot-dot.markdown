@@ -6,7 +6,7 @@ position: 3
 
 ![1934888_100726326608033_5880341_n.jpg](/uploads/1934888_100726326608033_5880341_n.jpg)
 <h3 style="text-align: left;">Derrin</h3>
-<p style="padding-left: 30px;">Derrin gets things done.</p>
+<p style="padding-left: 30px;">Derrin joined Indivisble to keep her head from exploding. She’s passionate, outgoing, and not afraid of the rain. Derrin is fearless, and she speaks up.</p>
 ![527712_614865867337_1108754181_n.jpg](/uploads/527712_614865867337_1108754181_n.jpg)
 <h3 style="text-align: left;">Emily</h3>
 <p style="padding-left: 30px;">Emily uses the Resistance as a way of coping with the political <em>Twilight Zone</em> we find ourselves in. She has two kids, she is addicted to the news, and she uses a lot of exclamation points when she writes!</p>
