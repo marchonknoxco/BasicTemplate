@@ -38,4 +38,6 @@ Each of us explicitly reserves our individual stances on specific issues, but we
 
 We come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and others have been at this for decades. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
+We meet every second Thursday at 5:30 and every fourth Sunday at 10:30. 
+
 **Take what you like and leave the rest. All are welcome.**
