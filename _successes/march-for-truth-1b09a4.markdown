@@ -1,5 +1,5 @@
 ---
-title: March for Truth
+title: Vigil for Charlotesville
 date: 2017-10-24 09:37:00 -05:00
 main-image: "/uploads/IMG_3719.jpg"
 ---
