@@ -14,6 +14,7 @@ collections:
   successes:
     title: Successes
     output: true
+    permalink: indivisibleknoxcounty.org/successes
   uploads:
     title: Uploads
     output: true
