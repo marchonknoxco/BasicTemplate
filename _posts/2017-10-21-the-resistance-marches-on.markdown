@@ -1,6 +1,6 @@
 ---
 title: The Resistance Marches On
-date: 2017-10-20 09:26:00 -05:00
+date: 2017-10-21 09:26:00 -05:00
 categories:
 - event
 tags:
