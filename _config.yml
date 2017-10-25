@@ -11,9 +11,9 @@ collections:
   representatives:
     title: Representatives
     output: false
-      successes:
+  successes:
     title: Successes
-output: true
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -48,7 +48,7 @@ defaults:
   values:
     is featured: false
     main-image: 
-layout: media-item
+    layout: media-item
 - scope:
     path: ''
     type: calendar
