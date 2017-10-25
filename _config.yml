@@ -11,7 +11,6 @@ collections:
   representatives:
     title: Representatives
     output: false
-
   uploads:
     title: Uploads
     output: true
