@@ -16,7 +16,7 @@ RSVP-link: http://indivisibleknoxcounty.rsvpify.com
 
 Laid back and over coffee and eggs, our Brunch meetings are on the fourth Saturday of every month. We will review the issues covered during Thursday evening meetings–the second Thursday of every month–and catch up on what’s happened in the meantime.
 
-We’ll talk about what’s happening in Congress and go over some Indivisible strategies. We’ll also talk about what issues are most important to everybody here and what we can do about them locally, state-wide, and at the federal level. 
+We’ll talk about what Congress up to and go over some Indivisible strategies. We’ll also talk about what issues are most important to everybody here and what we can do about them locally, state-wide, and at the federal level. 
 
 Come one, come all. **Everyone is welcome, no matter your political persuasion. As always, take what you like and leave the rest.**
 
