@@ -14,7 +14,7 @@ RSVP-link: http://indivisibleknoxcounty.rsvpify.com
 
 **Budgets! DACA! Health care! Iran! And that wall … **
 
-Laid back and over coffee and eggs, our Brunch meetings are on the fourth Saturday of every month. We will review the issues covered during Thursday evening meetings–the second Thursday of every month–and catch up on what’s happened in the meantime.
+Laid back and over coffee and eggs, our Brunch meetings are on the fourth Saturday of every month. We will review the issues covered during the Thursday evening meeting--they're the second Thursday of every month--and we'll catch up on what’s happened in the meantime.
 
 We’ll talk about what Congress up to and go over some Indivisible strategies. We’ll also talk about what issues are most important to everybody here and what we can do about them locally, state-wide, and at the federal level. 
 
