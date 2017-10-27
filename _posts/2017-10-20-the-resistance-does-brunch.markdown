@@ -22,7 +22,7 @@ Come one, come all. **Everyone is welcome, no matter your political persuasion. 
 
 Come late or leave early if you need to. And there's no need to spend money, if you’ve just come from breakfast elsewhere or if you’ve got other plans for lunch. If you can’t make it, no problem--we’ll catch you next time. Next second Thursday or next fourth Saturday, maybe.
 
-The Broadview is a low-key greasy spoon kind of place–-exactly where you’d want to get pancakes and bacon. It’s seat yourself, so just wander toward the left and then to the back. We’ll be the folks with pieces of paper, and we’ll either be laughing or scowling, depending on the conversation.
+The Broadview is a low-key greasy spoon kind of place–-exactly the kind of place for eating pancakes and bacon. It’s seat yourself, so just wander toward the left and then to the back. We’ll be the folks with pieces of paper, and we’ll either be laughing or scowling, depending on the conversation.
 
 **Let’s happen to things!**
 
