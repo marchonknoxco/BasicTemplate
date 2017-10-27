@@ -8,6 +8,6 @@ main-image: "/uploads/20170904_100423.jpg"
 link: 
 ---
 
-Labor Day: Celebrating hardworking Americans with our area Locals and Congresswoman Cheri Bustos (D-IL-17).
+Celebrating hardworking Americans with our area Locals and Congresswoman Cheri Bustos (D-IL-17).
 
 [More photos here!](https://photos.app.goo.gl/zBFwcUMiumxiKxg82)
