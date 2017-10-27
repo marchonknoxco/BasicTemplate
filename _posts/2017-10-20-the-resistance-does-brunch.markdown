@@ -12,7 +12,7 @@ Location: "The Broadview:  \n29 Public Square, Galesburg IL 61401"
 RSVP-link: http://indivisibleknoxcounty.rsvpify.com
 ---
 
-**Budgets! DACA! Health care! Iran! And that wall … **
+**Budgets! DACA! Health care! Iran! And that wall …**
 
 Laid back and over coffee and eggs, our Brunch meetings are on the fourth Saturday of every month. We will review the issues covered during the Thursday evening meeting--they're the second Thursday of every month--and catch up on what’s happened in the meantime.
 
@@ -25,5 +25,6 @@ Come late or leave early if you need to. And there's no need to spend money, if 
 The Broadview is a low-key greasy spoon kind of place–-exactly the kind of place for eating pancakes with bacon. It’s seat yourself, so just wander toward the left and then to the back. We’ll be the folks with pieces of paper, and we’ll either be laughing or scowling, depending on the conversation.
 
 **Let’s happen to things!**
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3013.5200871436064!2d-90.3740991845878!3d40.94818407930686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87e1be08afcec89d%3A0xce4691f8d4339a03!2sBroadview+Restaurant+%26+Lounge!5e0!3m2!1sen!2sus!4v1508634566264" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
