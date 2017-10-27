@@ -20,7 +20,7 @@ We’ll talk about what’s happening in Congress and go over some Indivisible s
 
 Come one, come all. **Everyone is welcome, no matter the political persuasion. As always, take what you like and leave the rest.**
 
-Come late or leave early if you need to. Drink coffee! Eat bacon! No need to spend money, though, if you’ve just come from breakfast elsewhere or if you’ve got other plans for lunch. And if you can’t make it, no problem--we’ll catch you next time. Next second Thursday or next fourth Saturday, maybe.
+Come late or leave early if you need to. No need to spend money, though, if you’ve just come from breakfast elsewhere or if you’ve got other plans for lunch. And if you can’t make it, no problem--we’ll catch you next time. Next second Thursday or next fourth Saturday, maybe.
 
 The Broadview is a low-key greasy spoon kind of place–exactly where you’d want to get pancakes and potatoes. It’s seat yourself, so just wander toward the left and then to the back. We’ll be the folks with pieces of paper, and we’ll either be laughing or scowling, depending on the conversation.
 
