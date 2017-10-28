@@ -10,7 +10,7 @@ event-start-date: 2017-11-09 17:30:00 -06:00
 event-end-date: 2017-11-09 19:00:00 -06:00
 Location: |-
   Budde's Pizza & Spirits:
-  425 E Main St, Galesburg, Illinois 61401
+  425 E Main St, Galesburg, IL 61401
 ---
 
 **Budgets! DACA! Health care! Iran! And that wall …**
