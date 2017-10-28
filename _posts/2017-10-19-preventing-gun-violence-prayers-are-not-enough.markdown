@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - guns
-main-image: "/uploads/stop_gun_violence_classic_round_sticker-r06010fa5af934480bab43763247385f4_v9waf_8byvr_324.jpg"
+main-image: "/uploads/Childrens-Rights.jpg"
 call-script-text: "Caller: Hello! My name is [ ] and I’m calling from [part of state].
   I’m calling to ask that the [MoC] support reauthorization of the Children’s Health
   Insurance Program immediately, using a bipartisan approach.\n\nStaffer: Thanks for
