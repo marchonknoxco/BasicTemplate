@@ -88,3 +88,4 @@ exclude:
 - Gemfile.lock
 google_analytics: 
 favicon: favicon.jpg
+main-image: "/uploads/header.png"
