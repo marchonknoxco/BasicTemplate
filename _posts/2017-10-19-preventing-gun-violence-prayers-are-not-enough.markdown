@@ -1,5 +1,5 @@
 ---
-title: 'Preventing Gun Violence: Prayers are Not Enough'
+title: Congress STILL Needs to Reauthorize CHIP
 date: 2017-10-19 10:23:00 -05:00
 categories:
 - action
@@ -15,6 +15,8 @@ call-script-text: "Caller: Hello! My name is [ ] and I’m calling from [part of
   on to the [MoC].\n\nCaller: Thank you very much and thank you for your support. "
 ---
 
-Late in the evening of October 1, a shooter opened fire on a crowd gathered for a concert in Las Vegas. This act of terror, inflicted by a single individual, killed at least 50 people and wounded at least 500. We stand in solidarity with, and extend our warmest comfort to, all impacted by this horrific terrorist attack. Donald Trump and all U.S. officials must condemn this violence in the same way they would condemn a shooter of color—and call it what it is: terrorism.
+The Children’s Health Insurance Program (CHIP) ensures nearly 9 million children have health insurance. CHIP is a federal-state partnership where the federal government provides most—or in some cases, all—of the funding necessary to cover uninsured children. No one thought Congress would let CHIP funding expire on September 30, but that’s exactly what they did. Now almost a month later, Republicans still have not found the time to reauthorize CHIP.
 
-It’s not nearly enough, but the very least that Congress can do right now to protect against gun violence is to strip the silencer provision out of the SHARE Act. As we mourn the violence in Vegas, call your MoCs right now and tell them that “thoughts and prayers” are not enough. Demand that they oppose the silencer provision.
+Congress is using the  health insurance of 9 million kids as a political football. Bipartisan negotiations in the House fell apart over how to pay for CHIP. However, Majority Leader Kevin McCarthy (R CA-23) has announced that the House will vote on a partisan bill to fund CHIP next week. The Healthy Kids Act (H.R. 3921) extends CHIP by by taking money away from the Affordable Care Act and weakening Medicare. We need to reject the premise that we can only offer healthcare to children by taking it away from others.
+
+If Congress doesn’t act soon, states will start running out of money. Some states have already stopped taking new applications for CHIP. Check the map below to see when your state runs out of CHIP funding. Call your Member of Congress to tell them to reauthorize CHIP ASAP but using a bipartisan approach that won’t harm the American health care system!
