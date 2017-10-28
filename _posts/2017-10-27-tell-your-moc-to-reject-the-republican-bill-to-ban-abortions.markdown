@@ -16,8 +16,6 @@ call-script-text: |-
   Caller: Thank you very much and thank you for your support.
 ---
 
-
-
 Republican Members of Congress (MoCs) are continuing their radical attacks on reproductive rights by moving forward with a bill that blocks access to abortions before most women even know they’re pregnant.  The House Judiciary Subcommittee on the Constitution and Civil Justice scheduled a hearing for November 1, 2017 to discuss the Heartbeat Protection Act of 2017 (H.R. 490).
 
 The “Heartbeat Bill” effectively bans all abortions starting six weeks into a pregnancy by making it a crime for a physician to knowingly perform an abortion without determining "whether the fetus has a detectable heartbeat," "without informing the mother of the results," or "after determining that a fetus has a detectable heartbeat." The sole exception to the ban is for an abortion which is medically necessary to save the life of the woman—ignoring a woman’s psychological state, even in instances of rape or incest.
