@@ -1,27 +1,29 @@
 ---
-title: Repeal by Executive Order—Trump’s Latest Health Care Sabotage
+title: 'Don’t Let Trump Spy On Us: Tell Congress Not to Extend Unconstitutional Surveillance'
 date: 2017-10-18 01:00:00 -05:00
 categories:
 - action
 tags:
 - health care
-main-image: "/uploads/st,small,215x235-pad,210x230,f8f8f8.lite-1u19.jpg"
+main-image: "/uploads/resist_trump_pinback_button-rda55cca3b6f246679354fe72b3888ae1_k94r8_324.jpg"
 call-script-text: |-
-  <hr><p style="padding-left: 30px;">Heads up: [MoC] means "Member of Congress." (Also, you can find more background on the issue <a href="https://www.indivisible.org/resource/repeal-executive-order-trumps-latest-health-care-sabotage-explained/">here</a>.)</p><hr>
+  Caller: Hi! My name is [name] and I’m a constituent calling from [part of state]. I’m calling because I’m concerned about Trump’s wide-ranging surveillance authority, and I want to urge Senator/Representative [name] not to reauthorize Section 702 of the FISA Amendments at the end of the year without closing the “backdoor search” loophole. In support of this reform, Senator/Representative should cosponsor the bipartisan USA RIGHTS Act from [for Senate: Senators Wyden and Paul, for House: Representatives Lofgren and Poe].
 
-  Caller: Good morning/afternoon! Can you let me know Representative/Senator _____’s position on the bipartisan efforts to stabilize the health insurance markets?
+  Staffer: Thank you for your concern. The [Member] is taking a look at a number of options, but wants to be sure to preserve our intelligence-gathering capabilities for the fight against ISIS and other threats.
 
-  OPTION 1: SUPPORTS
+  Caller: I also want our intelligence community to be able to gather information on threats, but my concern is that current surveillance authority and practice - especially “backdoor searches” - go far beyond that goal, and allows the U.S. government to collect Americans’ communications and use it against them without a warrant.
 
-  Staffer: Thank you for calling. Representative/Senator ______ supports Senator Murray and Senator Alexander’s efforts to stabilize the markets, and hopes they can reach an agreement that will keep costs down for consumers.
+  Staffer: We’ll take a look at that, and I’ll relay your concerns to the [Member].
 
-  Caller: I’m glad to hear it, but the deal Senators Murray and Alexander were discussing isn’t enough after Trump’s latest round of sabotage. His latest executive order will cause a death spiral unless Congress acts. I want Representative/Senator _____ to commit to supporting a stabilization bill that will both guarantee the CSR payments, and close loopholes that allow association health plans and short-term plans to offer inadequate coverage.
+  Caller: Please do - at a minimum, Congress should close the so-called “backdoor search” loophole which allows the FBI to search through collected data for Americans’ communications without a warrant. This is unconstitutional and makes us less safe, particular placing vulnerable communities at risk. If Congress isn’t going to make that reform, they should let Section 702 expire.
 
-  Staffer: I will pass along your thoughts to the Representative/Senator.
+  Staffer: Thank you for relaying your concerns to us.
 
-  Caller: Please do. This is very important to me, and I will be watching to ensure the Representative/Senator protects care for all Americans.
+  Caller: Thanks—I’ll be monitoring the [Member]’s vote on this, and whether [he/she] co-sponsors the USA RIGHTS Act.
 ---
 
-On October 12, Trump issued an executive order designed to destabilize health care markets, and followed that up with another announcement that will lead to higher premiums and more uninsured Americans. The first order directed various agencies to expand the availability of low-quality plans that do not offer the same critical protections as other plans under the Affordable Care Act; the second fulfilled Trump’s long-running threat to cut off cost-sharing reduction (CSR) payments, which will cause the cost of coverage to spike for millions of Americans. Ask your Members of Congress to stop Trump’s sabotage of the ACA: ensure that all health plans have guaranteed protections and that CSR payments continue. 
+A key part of the Trump administration’s surveillance authority is set to expire at the end of 2017, unless Congress reauthorizes it. Every Member of Congress is going to have to decide whether to protect Americans’ privacy, or to leave unconstitutional spying authority in Trump’s hands.
 
-Democrats have been negotiating with Republicans on a bipartisan “stabilization bill” that would include a guarantee that CSR payments continue. But merely guaranteeing those payments is not enough. Ask your MoCs to ensure that the bipartisan bill continues protections for people enrolled in association health plans, that short-term plans stay truly short-term, and that CSR payments continue.
+No president should be afforded such a powerful tool—especially Trump. The U.S. government is no stranger to abusing its surveillance powers, and has a history of particularly targeting activists and marginalized communities. Trump has repeatedly threatened these groups and others, and displayed willingness to violate rights under the guise of “security.” Extending his surveillance authority would only give him one more tool to abuse, and make us less safe.
+
+Unless there are meaningful reforms to protect Americans against unlawful surveillance, Congress shouldn’t reauthorize Trump’s spying authority under Section 702 of the FISA Amendments Act.
