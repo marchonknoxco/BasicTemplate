@@ -1,6 +1,6 @@
 ---
 title: Tell Your Senator to Leave the Arbitration Rule in Place
-date: 2017-10-24 20:55:00 -05:00
+date: 2017-10-23 20:55:00 -05:00
 categories:
 - action
 main-image: "/uploads/stop_corruption1.png"
