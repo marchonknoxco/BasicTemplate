@@ -1,6 +1,6 @@
 ---
 title: Tell Your MoC to Reject the Republican Bill to Ban Abortions
-date: 2017-10-27 20:52:00 -05:00
+date: 2017-10-13 20:52:00 -05:00
 categories:
 - action
 main-image: "/uploads/female-symbol-fist.png"
