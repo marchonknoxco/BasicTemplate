@@ -1,7 +1,7 @@
 ---
 title: March for Truth
 date: 2017-10-24 09:32:00 -05:00
-main-image: "/uploads/20170603_113209.jpg"
+main-image: "/uploads/truth.jpg"
 ---
 
 Knox County joins the national call for an impartial investigation into possible connections between Russia and the Administration
