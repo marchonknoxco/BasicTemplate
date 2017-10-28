@@ -1,6 +1,6 @@
 ---
 title: The Resistance does Brunch
-date: 2017-10-20 07:14:00 -05:00
+date: 2017-10-06 07:14:00 -05:00
 categories:
 - event
 tags:
