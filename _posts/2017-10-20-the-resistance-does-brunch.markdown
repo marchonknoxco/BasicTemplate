@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - brunch
-main-image: "/uploads/breakfast(1).png"
+main-image: "/uploads/16422888_828398301627_20559316516607995_o(1).jpg"
 event-start-date: 2017-10-28 10:00:00 -05:00
 event-end-date: 2017-10-28 11:30:00 -05:00
 Location: "The Broadview:  \n29 Public Square, Galesburg IL 61401"
