@@ -11,6 +11,7 @@ event-end-date: 2017-11-09 19:00:00 -06:00
 Location: |-
   Budde's Pizza & Spirits:
   425 E Main St, Galesburg, IL 61401
+RSVP-link: http://indivisibleknoxcounty.rsvpify.com
 ---
 
 **Budgets! DACA! Health care! Iran! And that wall …**
