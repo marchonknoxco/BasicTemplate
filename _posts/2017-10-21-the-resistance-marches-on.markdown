@@ -14,7 +14,7 @@ Location: |-
 RSVP-link: http://indivisibleknoxcounty.rsvpify.com
 ---
 
-**Budgets! DACA! Health care! Iran! And that wall …**
+****Mueller! Tax scam! ACA enrollments! And protecting CHIPl****
 
 Laid back and over pizza, our Thursday meetings are on the second Thursday of every month. We will review the issues covered during the Brunch meeting--they're the fourth Saturday of every month--and catch up on what’s happened in the meantime.
 
