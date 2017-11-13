@@ -3,6 +3,7 @@ title: Labor Day Parade
 date: 2017-10-08 19:02:00 -05:00
 categories:
 - successes
+position: 3
 is featured: false
 main-image: "/uploads/labor%20day.jpg"
 link: 
