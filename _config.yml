@@ -13,7 +13,7 @@ collections:
     output: false
   successes:
     title: Successes
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: true
