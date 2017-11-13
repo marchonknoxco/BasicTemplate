@@ -6,7 +6,7 @@ categories:
 tags:
 - vigil
 position: 1
-main-image: "/uploads/vigil.jpg"
+main-image: "/uploads/stop_corruption1.png"
 link: 
 ---
 
