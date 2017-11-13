@@ -6,6 +6,7 @@ categories:
 tags:
 - veterans
 position: 0
+is featured: true
 main-image: "/uploads/23467178_888351539857_6250278283132787697_o.jpg"
 link: 
 ---
