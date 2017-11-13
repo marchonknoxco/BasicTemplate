@@ -1,7 +1,7 @@
 ---
 title: Vigil for Charlottesville
 date: 2017-10-24 09:37:00 -05:00
-position: 1
+position: 0
 main-image: "/uploads/vigil.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: March for Truth
 date: 2017-10-24 09:32:00 -05:00
-position: 0
+position: 3
 main-image: "/uploads/truth.jpg"
 ---
 
